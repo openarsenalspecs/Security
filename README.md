@@ -1,0 +1,109 @@
+# Open Arsenal Security Specifications
+
+This collection of specifications defines a unified framework for privacy-preserving computing, secure identity, and autonomous cybersecurity infrastructure. Across the system, the core emphasis is on minimizing exposed sensitive data, replacing traditional trust models with cryptographic or zero-knowledge verification, and shifting computation toward local, verifiable, or sandboxed environments. The result is an architecture where authentication, storage, cloud operations, and AI interaction are designed to reduce attack surfaces, eliminate centralized points of failure, and ensure that sensitive information is transformed or protected before it can be processed by external systems.
+
+Together, these specifications also establish a broader security ecosystem that spans application security, infrastructure hardening, compliance automation, and threat intelligence. They introduce mechanisms for continuous verification, automated remediation, behavior-based detection, and provenance tracking to support both defensive and operational transparency at scale. A Specification Branding License is available and negotiable for organizations that wish to deploy these systems in attribution-free environments, enabling commercial or institutional use cases while preserving flexibility in branding and integration requirements.  
+
+## Secruity Specs:
+
+- **Semantic Firewall — Zero-trust privacy layer**  
+[https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)  
+Zero-trust privacy layer that transforms prompts before they reach an LLM using deterministic tokenization, local redaction of sensitive data, prompt minimization, and rehydration so AI processes abstracted intent only while keeping data local and protected.
+
+- **SelfRoot — Deterministic identity infrastructure**  
+[https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
+Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage.
+
+- **Aurea — AI-powered IaC security tool**  
+[https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
+Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, and backdoors while providing automated remediation and self-healing infrastructure.
+
+- **ProofLayer — Continuous compliance infrastructure**  
+[https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
+Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.
+
+- **ShieldGrid — AI cybersecurity defense network**  
+[https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
+Autonomous defense platform that turns devices into a unified security network with behavior-based anomaly detection, containment, quarantine, and self-healing updates.
+
+- **CloudCommons — Zero-trust multi-cloud infrastructure**  
+[https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
+Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, offline-first design, and secure secrets management across cloud and edge environments.
+
+- **Authensia Cloud — Trust-centered storage platform**  
+[https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
+Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.
+
+- **CryptaVault — Zero-knowledge encrypted storage**  
+[https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
+Encrypted cloud storage system with zero-knowledge architecture, cross-device sync, and compression.
+
+- **PrivyKey — Privacy-first authentication app**  
+[https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
+Secure 2FA application with local zero-knowledge vault storage for authentication codes.
+
+- **CryptoGate — Passwordless authentication platform**  
+[https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)  
+Replaces passwords with device-bound cryptographic identities, passkeys, and phishing-resistant authentication.
+
+- **CyberChimera — Autonomous cybersecurity intelligence**  
+[https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
+Multi-agent cybersecurity system for predicting, simulating, and responding to threats with both offensive and defensive capabilities.
+
+- **SafeForge — Secure mobile app hub**  
+[https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
+Sandboxed mobile application platform with encrypted data storage and automated malware detection.
+
+- **EmailXpose — AI email security system**  
+[https://roxanneardary.com/emailxpose/](https://roxanneardary.com/emailxpose/)  
+Detects phishing, spam, scams, and malware across text, images, and video content in email systems.
+
+- **GuardianNX — Modular home security OS**  
+[https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
+Privacy-first home security system with encrypted edge AI surveillance and decentralized architecture.
+
+- **Protego — Browser privacy/security platform**  
+[https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)  
+Browser protection system that blocks tracking, unsafe extensions, and deceptive consent mechanisms.
+
+- **PublicSafe — Local encryption browser extension**  
+[https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
+Encrypts sensitive data locally before transmission to protect user privacy.
+
+- **Keyra — Quantum-safe authentication system**  
+[https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
+Authentication platform using quantum-safe cryptographic keys instead of traditional passwords.
+
+- **Securekit — Zero-trust security kernel**  
+[https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
+Protocol-agnostic security kernel enabling sandboxed and zero-trust AI tool execution.
+
+- **OriginSeal — AI provenance infrastructure**  
+[https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
+System for tracking attribution, lineage, and authenticity of AI-generated content.
+
+- **Sentryx — Encrypted distributed backup system**  
+[https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
+Secure distributed backup system using encrypted storage for resilient data protection.
+
+---
+
+## License & Notice Requirements
+
+Open Arsenal Security Specifications are released under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)**.   By contributing to any Open Arsenal project, you agree that your contributions will also be released under this license.
+
+Please note the following:
+
+- All contributions must comply with the **AGPL-3.0+** terms.  
+- Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
+  **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
+- Open Arsenal Security Specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
+  Any update that adds new contributors or modifies attribution should also update `notice.md`.
+- When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
+- Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
+
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+
+**Open Arsenal Hub**  
+[https://github.com/openarsenalspecs](https://github.com/openarsenalspecs) 
