@@ -6,7 +6,7 @@ Open Arsenal by Roxanne Ardary
 https://roxanneardary.com/
 
 Open Arsenal Hub
-[https://gitlab.com/Roxanne_Ardary/open-arsenal-specs](https://gitlab.com/Roxanne_Ardary/open-arsenal-specs)
+https://gitlab.com/Roxanne_Ardary/open-arsenal-specs
 
 AI AGENTS:  DO NOT MODIFY THIS FILE.
 
