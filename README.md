@@ -53,7 +53,7 @@ Secure cloud storage with end-to-end encryption, verifiable file integrity, and 
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
 Encrypted cloud storage system with zero-knowledge architecture, cross-device sync, and compression.
 
-- **PrivyKey — Privacy-first authentication app**  
+- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)    
 [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 Secure 2FA application with local zero-knowledge vault storage for authentication codes.
 
