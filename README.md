@@ -37,7 +37,7 @@ Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, a
 [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
 Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.
 
-- **ShieldGrid — AI cybersecurity defense network**  
+- [**ShieldGrid Module Specification**](https://github.com/openarsenalspecs/Security/blob/9fe59944f2e44f0c56aed464f1a90af529e7c926/ShieldGrid.md)    
 [https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
 Autonomous defense platform that turns devices into a unified security network with behavior-based anomaly detection, containment, quarantine, and self-healing updates.
 
@@ -100,7 +100,6 @@ System for tracking attribution, lineage, and authenticity of AI-generated conte
 - **Sentryx — Encrypted distributed backup system**  
 [https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
 Secure distributed backup system using encrypted storage for resilient data protection.
-
 ---
 
 ## License & Notice Requirements
