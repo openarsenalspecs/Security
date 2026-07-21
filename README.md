@@ -81,7 +81,7 @@ Privacy-first home security system with encrypted edge AI surveillance and decen
 [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)  
 Browser protection system that blocks tracking, unsafe extensions, and deceptive consent mechanisms.
 
-- **PublicSafe — Local encryption browser extension**  
+- [**PublicSafe Module Specification**](https://github.com/openarsenalspecs/Security/blob/4bfe47cbc15e3bdd40873ab1a3bad081e43f1f66/PublicSafe.md)    
 [https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
 Encrypts sensitive data locally before transmission to protect user privacy.
 
