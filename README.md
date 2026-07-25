@@ -88,7 +88,7 @@ Encrypts sensitive data locally before transmission to protect user privacy.
 [https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
 System for tracking attribution, lineage, and authenticity of AI-generated content.
 
-- **QuantumSanctum**  
+- [**QuantumSanctum Module Specification**](https://github.com/openarsenalspecs/Security/blob/98255ec9d32a4618f388a49d581f7f747a866b21/QuantumSanctum.md)    
   https://roxanneardary.com/quantumsanctum/  
 QuantumSanctum is a human-centric, end-to-end encrypted digital ecosystem unifying secure storage, AI collaboration, and privacy-first computing. It provides a comprehensive open-source platform for protected digital interactions.
 
