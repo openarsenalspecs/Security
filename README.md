@@ -25,9 +25,9 @@ Together, these specifications also establish a broader security ecosystem that 
 [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
 Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, and backdoors while providing automated remediation and self-healing infrastructure.
 
-- **Semantic Firewall — Zero-trust privacy layer**  
-[https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)  
-Zero-trust privacy layer that transforms prompts before they reach an LLM using deterministic tokenization, local redaction of sensitive data, prompt minimization, and rehydration so AI processes abstracted intent only while keeping data local and protected.
+- **Authensia Cloud — Trust-centered storage platform**  
+[https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
+Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.  
 
 - **SelfRoot — Deterministic identity infrastructure**  
 [https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
@@ -35,19 +35,11 @@ Passwordless authentication system that converts live human presence into crypto
 
 - **ProofLayer — Continuous compliance infrastructure**  
 [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
-Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.
-
-- [**ShieldGrid Module Specification**](https://github.com/openarsenalspecs/Security/blob/9fe59944f2e44f0c56aed464f1a90af529e7c926/ShieldGrid.md)    
-[https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
-Autonomous defense platform that turns devices into a unified security network with behavior-based anomaly detection, containment, quarantine, and self-healing updates.
+Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.  
 
 - **CloudCommons — Zero-trust multi-cloud infrastructure**  
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
 Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, offline-first design, and secure secrets management across cloud and edge environments.
-
-- **Authensia Cloud — Trust-centered storage platform**  
-[https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
-Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.
 
 - **CryptaVault — Zero-knowledge encrypted storage**  
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
@@ -100,9 +92,17 @@ Sandboxed mobile application platform with encrypted data storage and automated 
 [https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
 Protocol-agnostic security kernel enabling sandboxed and zero-trust AI tool execution.
 
+- **Semantic Firewall — Zero-trust privacy layer**  
+[https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)  
+Zero-trust privacy layer that transforms prompts before they reach an LLM using deterministic tokenization, local redaction of sensitive data, prompt minimization, and rehydration so AI processes abstracted intent only while keeping data local and protected.
+
 - **Sentryx — Encrypted distributed backup system**  
 [https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
 Secure distributed backup system using encrypted storage for resilient data protection.
+
+- [**ShieldGrid Module Specification**](https://github.com/openarsenalspecs/Security/blob/9fe59944f2e44f0c56aed464f1a90af529e7c926/ShieldGrid.md)    
+[https://roxanneardary.com/shieldgrid/](https://roxanneardary.com/shieldgrid/)  
+Autonomous defense platform that turns devices into a unified security network with behavior-based anomaly detection, containment, quarantine, and self-healing updates.
 ---
 
 ## License & Notice Requirements
