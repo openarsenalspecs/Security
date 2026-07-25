@@ -57,6 +57,10 @@ Privacy-first home security system with encrypted edge AI surveillance and decen
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
 Authentication platform using quantum-safe cryptographic keys instead of traditional passwords.
 
+- **OriginSeal — AI provenance infrastructure**  
+[https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
+System for tracking attribution, lineage, and authenticity of AI-generated content.
+
 - [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)     [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 Secure 2FA application with local zero-knowledge vault storage for authentication codes.
 
@@ -71,10 +75,6 @@ Browser protection system that blocks tracking, unsafe extensions, and deceptive
 - [**PublicSafe Module Specification**](https://github.com/openarsenalspecs/Security/blob/4bfe47cbc15e3bdd40873ab1a3bad081e43f1f66/PublicSafe.md)    
 [https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
 Encrypts sensitive data locally before transmission to protect user privacy.  
-
-- **OriginSeal — AI provenance infrastructure**  
-[https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
-System for tracking attribution, lineage, and authenticity of AI-generated content.
 
 - [**QuantumSanctum Module Specification**](https://github.com/openarsenalspecs/Security/blob/98255ec9d32a4618f388a49d581f7f747a866b21/QuantumSanctum.md)    
   https://roxanneardary.com/quantumsanctum/  
