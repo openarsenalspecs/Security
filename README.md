@@ -61,7 +61,8 @@ Authentication platform using quantum-safe cryptographic keys instead of traditi
 [https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
 System for tracking attribution, lineage, and authenticity of AI-generated content.
 
-- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)     [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
+- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)  
+[https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 Secure 2FA application with local zero-knowledge vault storage for authentication codes.
 
 - **ProofLayer — Continuous compliance infrastructure**  
