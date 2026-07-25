@@ -19,7 +19,11 @@ This collection of specifications defines a unified framework for privacy-preser
 
 Together, these specifications also establish a broader security ecosystem that spans application security, infrastructure hardening, compliance automation, and threat intelligence. They introduce mechanisms for continuous verification, automated remediation, behavior-based detection, and provenance tracking to support both defensive and operational transparency at scale. A Specification Branding License is available and negotiable for organizations that wish to deploy these systems in attribution-free environments, enabling commercial or institutional use cases while preserving flexibility in branding and integration requirements.  
 
-## Secruity Specs:
+## Security Specs:
+
+- **Aurea — AI-powered IaC security tool**  
+[https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
+Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, and backdoors while providing automated remediation and self-healing infrastructure.
 
 - **Semantic Firewall — Zero-trust privacy layer**  
 [https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)  
@@ -27,11 +31,7 @@ Zero-trust privacy layer that transforms prompts before they reach an LLM using 
 
 - **SelfRoot — Deterministic identity infrastructure**  
 [https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
-Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage.
-
-- **Aurea — AI-powered IaC security tool**  
-[https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
-Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, and backdoors while providing automated remediation and self-healing infrastructure.
+Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage.  
 
 - **ProofLayer — Continuous compliance infrastructure**  
 [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
@@ -51,11 +51,7 @@ Secure cloud storage with end-to-end encryption, verifiable file integrity, and 
 
 - **CryptaVault — Zero-knowledge encrypted storage**  
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
-Encrypted cloud storage system with zero-knowledge architecture, cross-device sync, and compression.
-
-- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)    
-[https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
-Secure 2FA application with local zero-knowledge vault storage for authentication codes.
+Encrypted cloud storage system with zero-knowledge architecture, cross-device sync, and compression. 
 
 - **CryptoGate — Passwordless authentication platform**  
 [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)  
@@ -65,10 +61,6 @@ Replaces passwords with device-bound cryptographic identities, passkeys, and phi
 [https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
 Multi-agent cybersecurity system for predicting, simulating, and responding to threats with both offensive and defensive capabilities.
 
-- **SafeForge — Secure mobile app hub**  
-[https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
-Sandboxed mobile application platform with encrypted data storage and automated malware detection.
-
 - **EmailXpose — AI email security system**  
 [https://roxanneardary.com/emailxpose/](https://roxanneardary.com/emailxpose/)  
 Detects phishing, spam, scams, and malware across text, images, and video content in email systems.
@@ -77,25 +69,36 @@ Detects phishing, spam, scams, and malware across text, images, and video conten
 [https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
 Privacy-first home security system with encrypted edge AI surveillance and decentralized architecture.
 
+- **Keyra — Quantum-safe authentication system**  
+[https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
+Authentication platform using quantum-safe cryptographic keys instead of traditional passwords.
+
+- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)    [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
+Secure 2FA application with local zero-knowledge vault storage for authentication codes.
+
 - **Protego — Browser privacy/security platform**  
 [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)  
 Browser protection system that blocks tracking, unsafe extensions, and deceptive consent mechanisms.
 
 - [**PublicSafe Module Specification**](https://github.com/openarsenalspecs/Security/blob/4bfe47cbc15e3bdd40873ab1a3bad081e43f1f66/PublicSafe.md)    
 [https://roxanneardary.com/publicsafe/](https://roxanneardary.com/publicsafe/)  
-Encrypts sensitive data locally before transmission to protect user privacy.
-
-- **Keyra — Quantum-safe authentication system**  
-[https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
-Authentication platform using quantum-safe cryptographic keys instead of traditional passwords.
-
-- **Securekit — Zero-trust security kernel**  
-[https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
-Protocol-agnostic security kernel enabling sandboxed and zero-trust AI tool execution.
+Encrypts sensitive data locally before transmission to protect user privacy.  
 
 - **OriginSeal — AI provenance infrastructure**  
 [https://roxanneardary.com/originseal/](https://roxanneardary.com/originseal/)  
 System for tracking attribution, lineage, and authenticity of AI-generated content.
+
+- **QuantumSanctum**  
+  https://roxanneardary.com/quantumsanctum/  
+QuantumSanctum is a human-centric, end-to-end encrypted digital ecosystem unifying secure storage, AI collaboration, and privacy-first computing. It provides a comprehensive open-source platform for protected digital interactions.
+
+- **SafeForge — Secure mobile app hub**  
+[https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
+Sandboxed mobile application platform with encrypted data storage and automated malware detection.
+
+- **Securekit — Zero-trust security kernel**  
+[https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
+Protocol-agnostic security kernel enabling sandboxed and zero-trust AI tool execution.
 
 - **Sentryx — Encrypted distributed backup system**  
 [https://roxanneardary.com/sentryx/](https://roxanneardary.com/sentryx/)  
