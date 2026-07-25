@@ -27,15 +27,7 @@ Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, a
 
 - **Authensia Cloud — Trust-centered storage platform**  
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
-Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.  
-
-- **SelfRoot — Deterministic identity infrastructure**  
-[https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
-Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage.  
-
-- **ProofLayer — Continuous compliance infrastructure**  
-[https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
-Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.  
+Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.    
 
 - **CloudCommons — Zero-trust multi-cloud infrastructure**  
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
@@ -68,6 +60,10 @@ Authentication platform using quantum-safe cryptographic keys instead of traditi
 - [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)    [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 Secure 2FA application with local zero-knowledge vault storage for authentication codes.
 
+- **ProofLayer — Continuous compliance infrastructure**  
+[https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
+Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints. 
+
 - **Protego — Browser privacy/security platform**  
 [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)  
 Browser protection system that blocks tracking, unsafe extensions, and deceptive consent mechanisms.
@@ -91,6 +87,10 @@ Sandboxed mobile application platform with encrypted data storage and automated 
 - **Securekit — Zero-trust security kernel**  
 [https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
 Protocol-agnostic security kernel enabling sandboxed and zero-trust AI tool execution.
+
+- **SelfRoot — Deterministic identity infrastructure**  
+[https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
+Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage. 
 
 - **Semantic Firewall — Zero-trust privacy layer**  
 [https://roxanneardary.com/semantic-firewall/](https://roxanneardary.com/semantic-firewall/)  
