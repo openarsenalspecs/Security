@@ -57,7 +57,7 @@ Privacy-first home security system with encrypted edge AI surveillance and decen
 [https://roxanneardary.com/keyra/](https://roxanneardary.com/keyra/)  
 Authentication platform using quantum-safe cryptographic keys instead of traditional passwords.
 
-- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)    [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
+- [**PrivyKey Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a4f455e7c87073498590e5227652fe3e790877b/PrivyKey.md)     [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 Secure 2FA application with local zero-knowledge vault storage for authentication codes.
 
 - **ProofLayer — Continuous compliance infrastructure**  
