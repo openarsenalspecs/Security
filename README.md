@@ -41,7 +41,7 @@ Encrypted cloud storage system with zero-knowledge architecture, cross-device sy
 [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)  
 Replaces passwords with device-bound cryptographic identities, passkeys, and phishing-resistant authentication.
 
-- **CyberChimera — Autonomous cybersecurity intelligence**  
+- [**CyberChimera Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a1af3d2e4dda927e9bcbdcd2c9f3f194f52968b/CyberChimera.md)    
 [https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
 Multi-agent cybersecurity system for predicting, simulating, and responding to threats with both offensive and defensive capabilities.
 
