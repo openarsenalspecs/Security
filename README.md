@@ -29,7 +29,7 @@ Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, a
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
 Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.    
 
-- **CloudCommons — Zero-trust multi-cloud infrastructure**  
+- [**CloudCommons Module Specification**](https://github.com/openarsenalspecs/Security/blob/3cb0794f7c73eaf3c300bd60f7ff3a5b438c1d1d/CloudCommons.md)    
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
 Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, offline-first design, and secure secrets management across cloud and edge environments.
 
