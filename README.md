@@ -27,7 +27,11 @@ Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, a
 
 - **Authensia Cloud — Trust-centered storage platform**  
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
-Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.    
+Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.
+
+- [**BockadeAI Module Specification**](https://github.com/openarsenalspecs/Security/blob/2671932fb44887990e5407ceb28ebe05078a7cb9/BlockadeAI.md)
+[https://roxanneardary.com/blockadeai/](https://roxanneardary.com/blockadeai/)  
+AI defense system protecting websites from DoS/DDoS attacks with predictive mitigation.
 
 - [**CloudCommons Module Specification**](https://github.com/openarsenalspecs/Security/blob/3cb0794f7c73eaf3c300bd60f7ff3a5b438c1d1d/CloudCommons.md)    
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
