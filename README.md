@@ -29,7 +29,7 @@ Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, a
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
 Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.
 
-- [**BockadeAI Module Specification**](https://github.com/openarsenalspecs/Security/blob/2671932fb44887990e5407ceb28ebe05078a7cb9/BlockadeAI.md)
+- [**BockadeAI Module Specification**](https://github.com/openarsenalspecs/Security/blob/2671932fb44887990e5407ceb28ebe05078a7cb9/BlockadeAI.md)  
 [https://roxanneardary.com/blockadeai/](https://roxanneardary.com/blockadeai/)  
 AI defense system protecting websites from DoS/DDoS attacks with predictive mitigation.
 
