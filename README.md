@@ -85,7 +85,7 @@ Encrypts sensitive data locally before transmission to protect user privacy.
   https://roxanneardary.com/quantumsanctum/  
 QuantumSanctum is a human-centric, end-to-end encrypted digital ecosystem unifying secure storage, AI collaboration, and privacy-first computing. It provides a comprehensive open-source platform for protected digital interactions.
 
-- **SafeForge — Secure mobile app hub**  
+- [**SafeForge Module Specification**](https://github.com/openarsenalspecs/Security/blob/8bef6d31269cf907bc07dc7ea59bedf5f7bfb380/SafeForge.md)    
 [https://roxanneardary.com/safeforge/](https://roxanneardary.com/safeforge/)  
 Sandboxed mobile application platform with encrypted data storage and automated malware detection.
 
