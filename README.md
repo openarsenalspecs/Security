@@ -93,7 +93,7 @@ Sandboxed mobile application platform with encrypted data storage and automated 
 [https://roxanneardary.com/securekit/](https://roxanneardary.com/securekit/)  
 Protocol-agnostic security kernel enabling sandboxed and zero-trust AI tool execution.
 
-- **SelfRoot — Deterministic identity infrastructure**  
+- [**SelfRoot Module Specification**](https://github.com/openarsenalspecs/Security/blob/aff14899f0287b95b0307a1d91030565d10e1b1f/SelfRoot.md)    
 [https://roxanneardary.com/selfroot/](https://roxanneardary.com/selfroot/)  
 Passwordless authentication system that converts live human presence into cryptographic proof using locally processed biometrics, challenge-response flows, and secure enclave support without centralized identity storage. 
 
