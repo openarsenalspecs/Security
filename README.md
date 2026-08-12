@@ -49,9 +49,9 @@ Replaces passwords with device-bound cryptographic identities, passkeys, and phi
 [https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
 Multi-agent cybersecurity system for predicting, simulating, and responding to threats with both offensive and defensive capabilities.
 
-- **EmailXpose — AI email security system**  
+- [**EmailXpose Module Specification**](https://github.com/openarsenalspecs/Security/blob/4ac0c05a153d63cc4b923e59bc25fea699d79748/EmailXpose.md)    
 [https://roxanneardary.com/emailxpose/](https://roxanneardary.com/emailxpose/)  
-Detects phishing, spam, scams, and malware across text, images, and video content in email systems.
+Detects phishing, spam, scams, and malware across text, images, and video content in email systems.  
 
 - [**GuardianNX Module Specification**](https://github.com/openarsenalspecs/Security/blob/6b8200c5cf26728d006b87013f76432c50420c31/GuardianNX.md)    
 [https://roxanneardary.com/guardiannx/](https://roxanneardary.com/guardiannx/)  
