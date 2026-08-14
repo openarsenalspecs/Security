@@ -69,9 +69,9 @@ System for tracking attribution, lineage, and authenticity of AI-generated conte
 [https://roxanneardary.com/privykey/](https://roxanneardary.com/privykey/)  
 Secure 2FA application with local zero-knowledge vault storage for authentication codes.
 
-- **ProofLayer — Continuous compliance infrastructure**  
+- [**ProofLayer Module Specification**](https://github.com/openarsenalspecs/Security/blob/359baf43e47f6ca252beec2cf20c79c5c0e549b2/ProofLayer.md)    
 [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
-Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints. 
+Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.  
 
 - [**Protego Module Specification**](https://github.com/openarsenalspecs/Security/blob/bc39e6e39f8a4ea8d04a6a6f58469d681fc0b852/Protego.md)    
 [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)  
