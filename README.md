@@ -33,9 +33,9 @@ Secure cloud storage with end-to-end encryption, verifiable file integrity, and 
 [https://roxanneardary.com/blockadeai/](https://roxanneardary.com/blockadeai/)  
 AI defense system protecting websites from DoS/DDoS attacks with predictive mitigation.
 
-- [**CloudCommons Module Specification**](https://github.com/openarsenalspecs/Security/blob/3cb0794f7c73eaf3c300bd60f7ff3a5b438c1d1d/CloudCommons.md)    
+- [**CloudCommons Module Specification**](https://github.com/openarsenalspecs/Security/blob/e44db2380e2c47b9ffaad1d8ea63e648b8f0d974/CloudCommons.md)     
 [https://roxanneardary.com/cloudcommons/](https://roxanneardary.com/cloudcommons/)  
-Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, offline-first design, and secure secrets management across cloud and edge environments.
+Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, offline-first design, and secure secrets management across cloud and edge environments.  
 
 - **CryptaVault — Zero-knowledge encrypted storage**  
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
