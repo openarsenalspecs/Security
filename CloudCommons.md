@@ -1,13 +1,14 @@
-# CloudCommons 
+# CloudCommons
 **Intelligent Infrastructure, Everywhere.**
+- HTML Mirror: [https://roxanneardary.com/cloudcommons-specification/](https://roxanneardary.com/cloudcommons-specification/)
+
+---
 
 CloudCommons is an open-source, AI-driven, fully encrypted, zero-trust infrastructure platform designed for individuals, startups, teams, enterprises, and governments.
 
 Built to provide secure, scalable, intelligent, and privacy-first infrastructure across local, cloud, hybrid, and edge environments, CloudCommons combines automation, orchestration, AI, observability, collaboration, low-code/no-code tooling, and multi-cloud deployment into one unified platform.
 
 CloudCommons is licensed under the **GNU Affero General Public License v3.0 or later (AGPL-3.0+)** with attribution requirements under Section 7.
-
-Created by **Roxanne Ardary** — **[roxanneardary.com](https://www.roxanneardary.com/)**
 
 ---
 
@@ -353,29 +354,6 @@ Created by **Roxanne Ardary** — **[roxanneardary.com](https://www.roxanneardar
 
 ---
 
-# Installation
-
-## Requirements
-- Node.js 18+
-- Docker (optional)
-- Kubernetes (optional for orchestration)
-- Git
-
----
-
-# Quick Start
-
-```bash
-git clone https://codeberg.org/RoxanneA/cloudcommons.git
-
-cd cloudcommons
-
-npm install
-
-npx cloudcommons init
-```
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -410,32 +388,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
----
-
-# Contributing
-
-Contributions are welcome.
-
-Please read:
-
-- `CONTRIBUTING.md`
-- `notice.md`
-- `License`
-
-before contributing.
-
-All contributors must preserve attribution requirements under AGPL 3.0+ Section 7.
-
----
-
-# Vision
-
-CloudCommons exists to provide intelligent, privacy-first, open infrastructure for everyone — from individual developers to global enterprises.
-
-The goal is to eliminate vendor lock-in, centralization, opaque infrastructure, and insecure cloud dependencies while empowering users with intelligent automation, complete ownership, and secure distributed systems.
-
----
-
-# CloudCommons
-
-### Intelligent Infrastructure, Everywhere.
