@@ -1,4 +1,8 @@
 # CyberChimera
+**One System. Many Faces. Total Control.**
+- HTML Mirror:  [https://roxanneardary.com/cyberchimera-specification/](https://roxanneardary.com/cyberchimera-specification/)
+
+---
 
 Autonomous cybersecurity intelligence, offensive security, defensive operations, and threat intelligence platform built using a modular architecture. CyberChimera is designed to continuously analyze attack surfaces, understand evolving threats, validate security controls, and operate securely across enterprise, research, government, and critical infrastructure environments.
 
@@ -459,6 +463,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-Summary
-
-CyberChimera is a multi-layered, autonomous cybersecurity AI platform designed for the next generation of red-team intelligence and network defense simulations. Its modular, scalable, and multi-agent architecture makes it fully adaptable to new tools, cloud environments, and advanced AI strategies.
