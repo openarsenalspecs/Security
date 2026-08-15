@@ -45,9 +45,9 @@ Encrypted cloud storage system with zero-knowledge architecture, cross-device sy
 [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)  
 Replaces passwords with device-bound cryptographic identities, passkeys, and phishing-resistant authentication.  
 
-- [**CyberChimera Module Specification**](https://github.com/openarsenalspecs/Security/blob/2a1af3d2e4dda927e9bcbdcd2c9f3f194f52968b/CyberChimera.md)    
+- [**CyberChimera Module Specification**](https://github.com/openarsenalspecs/Security/blob/60e91186bbab58480a8d91109e23ab2f4be5e991/CyberChimera.md)     
 [https://roxanneardary.com/cyberchimera/](https://roxanneardary.com/cyberchimera/)  
-Multi-agent cybersecurity system for predicting, simulating, and responding to threats with both offensive and defensive capabilities.
+Multi-agent cybersecurity system for predicting, simulating, and responding to threats with both offensive and defensive capabilities.  
 
 - [**EmailXpose Module Specification**](https://github.com/openarsenalspecs/Security/blob/4ac0c05a153d63cc4b923e59bc25fea699d79748/EmailXpose.md)    
 [https://roxanneardary.com/emailxpose/](https://roxanneardary.com/emailxpose/)  
