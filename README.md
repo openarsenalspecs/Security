@@ -25,9 +25,9 @@ Together, these specifications also establish a broader security ecosystem that 
 [https://roxanneardary.com/aurea/](https://roxanneardary.com/aurea/)  
 Scans Terraform, Kubernetes, Docker, and Ansible for vulnerabilities, malware, and backdoors while providing automated remediation and self-healing infrastructure.
 
-- **Authensia Cloud — Trust-centered storage platform**  
+- [**Authensia Cloud Module Specification**](https://github.com/openarsenalspecs/Security/blob/ee427683e44f2db4ea5c1205ba0026ec13c07e3f/Authensia%20Cloud.md)    
 [https://roxanneardary.com/authensiacloud/](https://roxanneardary.com/authensiacloud/)  
-Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.
+Secure cloud storage with end-to-end encryption, verifiable file integrity, and authorship proof for global access.  
 
 - [**BockadeAI Module Specification**](https://github.com/openarsenalspecs/Security/blob/2671932fb44887990e5407ceb28ebe05078a7cb9/BlockadeAI.md)  
 [https://roxanneardary.com/blockadeai/](https://roxanneardary.com/blockadeai/)  
