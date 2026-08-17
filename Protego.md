@@ -1,6 +1,8 @@
 # Protego
-
 **Privacy Made Effortless**
+- HTML Mirror: [https://roxanneardary.com/protego-specification/](https://roxanneardary.com/protego-specification/)  
+
+---
 
 Protego is an open-source, AI-powered browser privacy and security platform designed to protect users from tracking, unsafe browser extensions, intrusive advertising, deceptive consent systems, and unnecessary data collection across major browsers.
 
@@ -25,6 +27,8 @@ Protego shall prioritize local processing, user control, transparency, minimal d
 - Browser-specific functionality shall remain isolated from the core protection engine.
 - The architecture shall support independent modules and optional plugins.
 - Users shall retain the ability to inspect, modify, disable, or override protection policies.
+
+---
 
 # Core Modules
 
@@ -416,80 +420,6 @@ Security controls shall include, where supported by the browser:
 
 Protego shall never intentionally weaken browser security boundaries to provide functionality.
 
-# Cross-Browser Requirements
-
-The core specification shall remain browser-independent.
-
-Browser adapters may implement differences in:
-
-- Extension permissions.
-- Request interception.
-- Content scripting.
-- Storage.
-- Background execution.
-- Service workers.
-- Extension management APIs.
-- Safari-specific integration.
-
-A limitation in one browser shall not be represented as supported functionality unless the required browser APIs actually permit the feature.
-
-# Performance Requirements
-
-Protego shall minimize its impact on browsing performance.
-
-The system should:
-
-- Avoid unnecessary page processing.
-- Cache trusted analysis where appropriate.
-- Process content incrementally.
-- Prefer deterministic rules for simple decisions.
-- Invoke AI analysis only when useful.
-- Limit resource-intensive operations.
-- Allow users to disable optional resource-intensive modules.
-
-# Failure Handling
-
-When Protego cannot confidently determine whether an action is safe, it shall use the applicable user privacy policy and protection level.
-
-The system should:
-
-- Fail safely.
-- Avoid silently granting additional permissions.
-- Avoid silently accepting optional tracking.
-- Explain significant failures.
-- Provide users with a controlled override.
-- Record relevant failures when auditing is enabled.
-
-# User Experience
-
-Protego shall minimize the amount of work required from the user.
-
-The default experience should:
-
-- Protect users automatically.
-- Avoid unnecessary interruptions.
-- Explain important decisions.
-- Provide actionable warnings.
-- Avoid technical terminology where plain language is sufficient.
-- Keep advanced controls available for experienced users.
-
-Protego should prioritize getting users to the information they want while maintaining privacy and security protections.
-
-# Interoperability
-
-Protego shall be designed to coexist with other browser privacy and security tools.
-
-It should avoid unnecessary conflicts with:
-
-- Content blockers.
-- Password managers.
-- Accessibility tools.
-- Security extensions.
-- Developer tools.
-- Browser-native privacy controls.
-
-Users shall be able to identify overlapping protections and disable redundant Protego functionality when necessary.
-
 ---
 
 ## Specification Branding License (SBL)
@@ -519,10 +449,10 @@ Please note the following:
 - All contributions must comply with the **AGPL-3.0+** terms.  
 - Under **Section 7** of the license, all redistributions, forks, and derivative works must preserve attribution to:  
   **Roxanne Ardary** and **[roxanneardary.com](https://www.roxanneardary.com/)**.
-- Protego specificiations are free to use with attribution. A Specification Branding License can be negotiated upon request.
+- Protego specifications are free to use with attribution. A Specification Branding License can be negotiated upon request.
 - The project's **notice.md** file tracks attribution requirements and contributor acknowledgments.  
   Any update that adds new contributors or modifies attribution should also update `notice.md`. 
 - When submitting a pull request, ensure that any new files maintain the attribution headers where applicable.
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
-For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
+For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.  
