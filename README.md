@@ -73,7 +73,7 @@ Secure 2FA application with local zero-knowledge vault storage for authenticatio
 [https://roxanneardary.com/prooflayer/](https://roxanneardary.com/prooflayer/)  
 Real-time SOC 2/SOC 3 compliance system with automated evidence collection, control mapping, transparency dashboards, and machine-readable trust verification endpoints.  
 
-- [**Protego Module Specification**](https://github.com/openarsenalspecs/Security/blob/33a14ba34c20b79fbc5c8adf8771f0b0f4fcb42b/Protego.md)  
+- [**Protego Module Specification**](https://github.com/openarsenalspecs/Security/blob/70108bbf3e431c7581f45aec2f34e160896e52fa/Protego.md)  
 [https://roxanneardary.com/protego/](https://roxanneardary.com/protego/)   
 Browser protection system that blocks tracking, unsafe extensions, and deceptive consent mechanisms.   
 
