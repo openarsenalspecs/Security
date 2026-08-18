@@ -1,6 +1,9 @@
 # CryptoGate
+**Open Source Authentication for a Secure World.**
+- HTML Mirror: [https://roxanneardary.com/cryptogate-specification/](https://roxanneardary.com/cryptogate-specification/)
 
-## Open Source Zero Knowledge Authentication Infrastructure Specification
+---
+## Specification
 
 **CryptoGate is an open source authentication specification and implementation framework designed to provide secure, privacy-first identity verification through modern cryptography, decentralized device trust, and zero-knowledge authentication methods.**
 
@@ -444,70 +447,6 @@ No passwords or shared secrets are transmitted.
 
 ---
 
-# Planned Extensions
-
-Future CryptoGate modules may include:
-
-- Post-quantum cryptography
-- Threshold signatures
-- Decentralized identity networks
-- Encrypted authentication vaults
-- Enterprise identity governance
-- Privacy-preserving analytics
-- AI-assisted security monitoring
-- Hardware enclave integration
-
----
-
-# Installation Models
-
-Supported deployment models:
-
-- Docker deployment
-- Kubernetes clusters
-- Standalone installations
-- Enterprise infrastructure
-- Private cloud deployments
-
----
-
-# Use Cases
-
-CryptoGate can support:
-
-- Personal accounts
-- Enterprise authentication
-- Developer platforms
-- Financial systems
-- Healthcare platforms
-- Government systems
-- Privacy-focused applications
-- Distributed networks
-
----
-
-# Open Source Governance
-
-CryptoGate is designed as an open security standard.
-
-Development goals:
-
-- Community auditing
-- Transparent security practices
-- Open interoperability
-- Long-term maintainability
-- Decentralized innovation
-
----
-
-# Contributing
-
-See `CONTRIBUTING.md` for contribution guidelines, development standards, security practices, and licensing requirements.
-
-CryptoGate contributions follow the project’s open source licensing model and attribution requirements.
-
----
-
 ## Specification Branding License (SBL)
 ### Standard
 - Fully AGPL-3.0+ compliant system
@@ -542,4 +481,3 @@ Please note the following:
 - Network-deployed versions of this software must also remain fully AGPL-3.0+ compliant, including exposure of source code modifications when applicable under the license.
 
 For full legal details, please refer to the AGPL-3.0+ license and the project's `notice.md` file.
-Full license details are in the `License` file.
