@@ -41,7 +41,7 @@ Multi-cloud zero-trust infrastructure with end-to-end encryption, TLS 1.3/mTLS, 
 [https://roxanneardary.com/cryptavault/](https://roxanneardary.com/cryptavault/)  
 Encrypted cloud storage system with zero-knowledge architecture, cross-device sync, and compression. 
 
-- [**CryptoGate Module Specification**](https://github.com/openarsenalspecs/Security/blob/fa66c9bcf6b0c2d4fe4cd5291531f3a4e4373d94/CryptoGate.md)    
+- [**CryptoGate Module Specification**](https://github.com/openarsenalspecs/Security/blob/3f4f674f0d83eb606867e16fd2e0a9289cf1112e/CryptoGate.md)  
 [https://roxanneardary.com/cryptogate/](https://roxanneardary.com/cryptogate/)  
 Replaces passwords with device-bound cryptographic identities, passkeys, and phishing-resistant authentication.  
 
